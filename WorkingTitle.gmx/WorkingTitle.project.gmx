@@ -5,10 +5,23 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_test_sprite</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts"/>
+  <scripts name="scripts">
+    <script>scripts\scr_spanning_tree.gml</script>
+    <script>scripts\scr_get_neighbours.gml</script>
+    <script>scripts\ds_grid_draw.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\object0</object>
+    <object>objects\obj_test_wall</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
