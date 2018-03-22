@@ -9,7 +9,10 @@
     <sprite>sprites\spr_test_sprite</sprite>
     <sprite>sprites\spr_test_wall</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\room_bg</background>
+    <background>background\background1</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_spanning_tree.gml</script>
