@@ -9,6 +9,8 @@
     <sprite>sprites\spr_test_sprite</sprite>
     <sprite>sprites\spr_test_wall</sprite>
     <sprite>sprites\spr_test_player_size</sprite>
+    <sprite>sprites\spr_test_git_2</sprite>
+    <sprite>sprites\spr_test_git</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\room_bg</background>
@@ -27,7 +29,7 @@
     <object>objects\obj_room_controller</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\rm_test_room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
