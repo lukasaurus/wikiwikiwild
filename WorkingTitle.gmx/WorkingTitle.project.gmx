@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_test_sprite</sprite>
     <sprite>sprites\spr_test_wall</sprite>
+    <sprite>sprites\spr_test_player_size</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\room_bg</background>
@@ -22,6 +23,8 @@
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\obj_test_wall</object>
+    <object>objects\obj_test_player_size</object>
+    <object>objects\obj_room_controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
